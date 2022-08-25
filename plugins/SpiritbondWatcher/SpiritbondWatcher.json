@@ -1,11 +1,11 @@
 {
-  "Author": "Lin Sivvi",
+  "Author": "xPumaa",
   "Name": "Spiritbond Watcher",
   "InternalName": "SpiritbondWatcher",
   "AssemblyVersion": "1.1.0.0",
   "Description": "Tells you when to extract materia when you're actually paying attention.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/mousseng/xivtools",
+  "RepoUrl": "https://github.com/xPumaa/SpiritbondWatcher",
   "CategoryTags": [
     "Utility"
   ],
