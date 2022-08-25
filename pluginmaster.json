@@ -35,5 +35,24 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
     "Changelog": "Removed unnecessary logging"
+  },
+  {
+    "Author": "xPumaa",
+    "Name": "Spiritbond Watcher",
+    "InternalName": "SpiritbondWatcher",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "Tells you when to extract materia when you're actually paying attention.",
+    "Punchline": "Extract materia when you're paying attention.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xPumaa/SpiritbondWatcher",
+    "DalamudApiLevel": 7,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1661435035",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/SpiritbondWatcher/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/SpiritbondWatcher/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/SpiritbondWatcher/latest.zip",
   }
 ]
