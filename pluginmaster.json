@@ -1,0 +1,39 @@
+[
+  {
+    "Author": "xPumaa",
+    "Name": "JobIcons",
+    "InternalName": "JobIcons",
+    "AssemblyVersion": "6.0.0.1",
+    "Description": "Names are dumb, use icons instead. (Temp fix until the release from Haplo064)",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xPumaa/JobIcons",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1655629786",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip"
+  },
+  {
+    "Author": "xPumaa",
+    "Name": "Duty Announcer",
+    "InternalName": "DutyAnnouncer",
+    "AssemblyVersion": "1.0.1.2",
+    "Description": "Announces the name of the loading duty roulette",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xPumaa/DutyAnnouncer",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1655634365",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+    "Changelog": "Removed unnecessary logging"
+  }
+]
