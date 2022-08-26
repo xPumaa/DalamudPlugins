@@ -1,0 +1,13 @@
+{
+  "Author": "Haplo064",
+  "Name": "Pixel Perfect",
+  "InternalName": "PixelPerfect",
+  "AssemblyVersion": "2.0.0.1",
+  "Description": "Showing exactly where to stand since 2020.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/xPumaa/PixelPerfect",
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "Reveals your hitbox, and an optional ring.",
+  "Changelog": "Updated for 6.2/API 7"
+}
