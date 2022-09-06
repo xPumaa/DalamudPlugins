@@ -1,0 +1,12 @@
+{
+  "Author": "haplo, daemitus, Loskh, wozaiha",
+  "Name": "JobIcons2",
+  "InternalName": "JobIcons2",
+  "AssemblyVersion": "6.2.0.0",
+  "Description": "Names are dumb, use icons instead.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/haplo064/JobIcons",
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "Names are dumb, use icons instead."
+}
