@@ -1,21 +1,21 @@
 [
   {
     "Author": "xPumaa",
-    "Name": "JobIcons",
-    "InternalName": "JobIcons",
+    "Name": "JobIcons2",
+    "InternalName": "JobIcons2",
     "AssemblyVersion": "6.2.0.0",
     "Description": "Names are dumb, use icons instead. (Temp fix until the release from Haplo064)",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/xPumaa/JobIcons",
+    "RepoUrl": "https://github.com/xPumaa/JobIcons2",
     "DalamudApiLevel": 7,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1662335479",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons2/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons2/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons2/latest.zip"
   },
   {
     "Author": "xPumaa",
