@@ -1,0 +1,15 @@
+{
+  "Author": "xPumaa",
+  "Name": "Macro Chaining",
+  "InternalName": "MacroChaining",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Run multiple macros one after the another. Even in a loop.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/xPumaa/MacroChaining",
+  "DalamudApiLevel": 7,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Run multiple macros one after the another. Even in a loop.",
+  "AcceptsFeedback": true
+}
